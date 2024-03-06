@@ -7,4 +7,4 @@ https://arc777.itch.io/shooting-range-demo
 
 Shoot all three targets to win!
 
-Made with Erasmo Sanchez and Darren Pharakone
+Made together with Erasmo Sanchez and Darren Pharakone
