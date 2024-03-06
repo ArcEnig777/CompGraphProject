@@ -6,3 +6,5 @@ Below is an Itch.io page with which you can check out the game and play it
 https://arc777.itch.io/shooting-range-demo
 
 Shoot all three targets to win!
+
+Made with Erasmo Sanchez and Darren Pharakone
